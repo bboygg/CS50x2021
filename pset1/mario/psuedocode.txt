@@ -1,0 +1,9 @@
+1. Prompt user to input Height
+2. If the input value is less than 1 or greater than 8 (or not interger at all), go back to the line 1
+3. Iterate from 1 through Height : On iteration 1, print i and then pring new line
+
+
+3-1. print dot height - hash times
+3.2  print the hash from 1  
+3.3 print new line
+
