@@ -1,0 +1,11 @@
+sort1 uses: bubble
+
+How do you know?: first of all, sort2 was the fastest one, so I assume sort2 was merge. then there's two remaining sorting type, sort1 is faster than sort2 in small amount, but is not in big amoumt, so I get sort 1 is bubble sort. 
+
+sort2 uses: merge
+
+How do you know?: sort2 was the fastest one
+
+sort3 uses: selection
+
+How do you know?: remain one.
