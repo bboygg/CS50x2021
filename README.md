@@ -1,4 +1,4 @@
-# CS50x2021
+# CS50x2021 - 2022
 I made this repository to post my solutions to Harvard University's [**CS50x2021**](https://cs50.harvard.edu/x/2021/)
 
 ![cs50](cs50.jpeg)
